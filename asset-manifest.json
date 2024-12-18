@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chessed/static/css/main.38622216.css",
-    "main.js": "/chessed/static/js/main.23436754.js",
+    "main.js": "/chessed/static/js/main.d9bb20e2.js",
     "index.html": "/chessed/index.html",
     "main.38622216.css.map": "/chessed/static/css/main.38622216.css.map",
-    "main.23436754.js.map": "/chessed/static/js/main.23436754.js.map"
+    "main.d9bb20e2.js.map": "/chessed/static/js/main.d9bb20e2.js.map"
   },
   "entrypoints": [
     "static/css/main.38622216.css",
-    "static/js/main.23436754.js"
+    "static/js/main.d9bb20e2.js"
   ]
 }
